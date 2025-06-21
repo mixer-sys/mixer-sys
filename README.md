@@ -1,6 +1,6 @@
 
 ### About Me:    
-about me
+Welcome to my profile! I'm a passionate developer with experience in various programming languages and tools.
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/somersno)
 
